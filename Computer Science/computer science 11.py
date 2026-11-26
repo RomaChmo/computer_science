@@ -1,0 +1,6 @@
+mark1 = float(input('Enter mark'))
+mark2 = float(input('Enter mark'))
+mark3 = float(input('Enter mark'))
+mark4 = float(input('Enter mark'))
+mark5 = float(input('Enter mark'))
+avarage = (mark1+mark2+mark3+mark4+mark5/5)
